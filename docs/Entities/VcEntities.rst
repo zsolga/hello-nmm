@@ -7,7 +7,7 @@ The repository (:ref:`repository`) is a group of model parts which are used toge
 
 Model Part
 ~~~~~~~~~~
-The model part represents single network model regardless how big or small it is. 
+The model part (:ref:`modelpart`) represents single network model regardless how big or small it is. 
 
 Branch
 ~~~~~~~~~~
@@ -28,4 +28,11 @@ The Entity Relationship Diagram
 Repository Entity
 -----------------
 
-This is a repository entity description.
+This is the repository entity description.
+
+.. _modelpart:
+
+Model Part Entity
+-----------------
+
+This is the model part entity description.
