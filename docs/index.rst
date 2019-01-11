@@ -10,7 +10,7 @@ Welcome to hello-nmm's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+    Version Control and Related Metadata Entities <Entities/VcEntities>
 
 Indices and tables
 ==================
